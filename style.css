@@ -1,0 +1,46 @@
+/* body{ 
+    border: .25rem solid purple;
+    text-align: center;
+    font-size: 20px;
+}
+div{
+    display: flex;
+}
+header{
+    color: orangered;
+    font-size: 25px;
+    padding: 2rem 0 ;
+}
+#left{
+    color: gray;
+    font-size: 20px;
+    text-align: left;
+    margin-top: 5rem;
+}
+#right{
+    color:grey;
+    font-size: 20px;
+    text-align: right;
+    margin-top: 5rem;
+}
+img{
+    margin-top: 5rem;
+    display: inline-block;
+    border: .2rem solid purple;
+    border-radius: 7rem;
+    position: relative;
+    position: 10rem 10rem;
+} */
+
+body{
+    font-family: 'Poppins', sans-serif;
+} 
+
+h1{
+ color: indigo;
+}
+h1 span {
+color: hotpink;
+}
+
+
